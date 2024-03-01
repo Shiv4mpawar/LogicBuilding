@@ -6,7 +6,7 @@ int main()
     char Arr[20];
 
     printf("Enter your name : \n");
-    scanf("%[^'\n']s",Arr);     // 
+    scanf("%[^'\n']s",Arr);     // super scanf
 
     printf("Your name is : %s\n",Arr);
 
